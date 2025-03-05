@@ -28,7 +28,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <FaAirbnb className="h-8 w-8 text-airbnb-red" />
-            <span className="ml-2 text-airbnb-red font-bold text-xl">airbnb</span>
+            <span className="ml-2 text-airbnb-red font-bold text-xl">lushstay</span>
           </div>
 
           {/* Search */}

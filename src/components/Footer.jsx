@@ -8,7 +8,7 @@ export default function Footer() {
     },
     {
       title: 'Community',
-      links: ['Airbnb.org: disaster relief', 'Support refugees', 'Celebrating diversity', 'Combating discrimination'],
+      links: ['Lushstay.org: disaster relief', 'Support refugees', 'Celebrating diversity', 'Combating discrimination'],
     },
     {
       title: 'Hosting',
@@ -48,7 +48,7 @@ export default function Footer() {
         <div className="border-t dark:border-gray-700 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-600 dark:text-gray-300">
-              © 2025 Airbnb Clone. All rights reserved.
+              © 2025 Lushstay Clone. All rights reserved.
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-600 dark:text-gray-300 hover:text-airbnb-red dark:hover:text-airbnb-red">
